@@ -1,7 +1,7 @@
 {
-  "version": "0.9.2",
-  "downloadUrl": "https://github.com/Seofram/parking-kiosk-updates/releases/download/v0.9.2/parking-kiosk-installer.zip",
-  "sha256": "13ff3be66e1c0c738af08c55f25428efd5c01034c58676b825db55011e50e7fb",
-  "publishedAt": "2026-07-15T12:10:25+09:00",
-  "notes": "Discord API 오류 코드를 분석해 봇 미초대, 채널 접근 불가, 메시지 전송 권한 부족 원인을 관리자 화면에 구체적으로 안내합니다."
+  "version": "0.9.3",
+  "downloadUrl": "https://github.com/Seofram/parking-kiosk-updates/releases/download/v0.9.3/parking-kiosk-installer.zip",
+  "sha256": "e38ad43fdd75053790ce2df614d246e143a986b00d2e1d9f9335667a075b5a4f",
+  "publishedAt": "2026-07-15T12:33:22+09:00",
+  "notes": "업데이트 작업자가 검증과 백업을 마친 뒤 기존 서버를 직접 종료하도록 변경해 종료 경쟁 조건과 연결 거부 상태를 해결했습니다."
 }
