@@ -1,7 +1,7 @@
 {
-  "version": "0.8.0",
-  "downloadUrl": "https://github.com/Seofram/parking-kiosk-updates/releases/download/v0.8.0/parking-kiosk-installer.zip",
-  "sha256": "342610368f926ad287174d00256412fe53649710fe7c6838b841be6e51af2b86",
-  "publishedAt": "2026-07-15T00:55:08+09:00",
-  "notes": "GitHub 원격 업데이트, SHA-256 무결성 검증, 실패 시 자동 롤백, 관리자 업데이트 화면을 추가했습니다."
+  "version": "0.9.0",
+  "downloadUrl": "https://github.com/Seofram/parking-kiosk-updates/releases/download/v0.9.0/parking-kiosk-installer.zip",
+  "sha256": "0db0e0303571150ae33b3f4bb88a8edeeecd0ec01a8f658b9f83418b42f24feb",
+  "publishedAt": "2026-07-15T10:57:12+09:00",
+  "notes": "홈 화면 신규 업데이트 토스트와 차량번호 마스킹 기반 Discord 필드 디버깅 알림을 추가했습니다."
 }
