@@ -1,7 +1,7 @@
 {
-  "version": "0.9.1",
-  "downloadUrl": "https://github.com/Seofram/parking-kiosk-updates/releases/download/v0.9.1/parking-kiosk-installer.zip",
-  "sha256": "96aff14f1f73052ac7ca56071b437bf1e7e7fd04fd73f1c0b3c7e80e628f83f2",
-  "publishedAt": "2026-07-15T11:50:03+09:00",
-  "notes": "Windows 업데이트 교체 작업과 서버 재시작을 안정화하고, 관리자 및 업데이트 화면에서 무입력 홈 복귀 팝업이 표시되지 않도록 수정했습니다."
+  "version": "0.9.2",
+  "downloadUrl": "https://github.com/Seofram/parking-kiosk-updates/releases/download/v0.9.2/parking-kiosk-installer.zip",
+  "sha256": "13ff3be66e1c0c738af08c55f25428efd5c01034c58676b825db55011e50e7fb",
+  "publishedAt": "2026-07-15T12:10:25+09:00",
+  "notes": "Discord API 오류 코드를 분석해 봇 미초대, 채널 접근 불가, 메시지 전송 권한 부족 원인을 관리자 화면에 구체적으로 안내합니다."
 }
