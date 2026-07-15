@@ -1,1 +1,1 @@
-342610368f926ad287174d00256412fe53649710fe7c6838b841be6e51af2b86  parking-kiosk-installer.zip
+0db0e0303571150ae33b3f4bb88a8edeeecd0ec01a8f658b9f83418b42f24feb  parking-kiosk-installer.zip
