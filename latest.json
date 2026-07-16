@@ -1,7 +1,7 @@
 {
-  "version": "0.9.9",
-  "downloadUrl": "https://github.com/Seofram/parking-kiosk-updates/releases/download/v0.9.9/parking-kiosk-installer.zip",
-  "sha256": "4e1bc077fa6c446ebce58df6b4000ea0bbccce9b34ca45779e58b22c1656872a",
-  "publishedAt": "2026-07-16T12:51:30+09:00",
-  "notes": "실행 즉시 i PARKING 로그인과 메인 화면 준비 상태를 확인하고 실패 시 오류 화면을 표시합니다. 안내·구매 화면의 하단 닫기 또는 우측 상단 홈 버튼을 자동 처리하며, 검색 전 준비되지 않은 연결을 차단합니다."
+  "version": "0.9.10",
+  "downloadUrl": "https://github.com/Seofram/parking-kiosk-updates/releases/download/v0.9.10/parking-kiosk-installer.zip",
+  "sha256": "02f46d63bed3ed2da88ce7ad03446abfafade3f4177ec67d3bbb7f0251a47754",
+  "publishedAt": "2026-07-16T13:47:55+09:00",
+  "notes": "할인권 구매 광고에서는 하단 닫기를 최우선으로 누르고, 닫기가 없는 구매 상세 화면에서는 우측 상단 홈으로 복귀합니다. 광고가 검색 화면을 덮은 상태를 준비 완료로 오인하지 않으며 검색 실패 시 외부 세션을 홈으로 정리합니다."
 }
