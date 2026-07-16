@@ -1,7 +1,7 @@
 {
-  "version": "0.9.6",
-  "downloadUrl": "https://github.com/Seofram/parking-kiosk-updates/releases/download/v0.9.6/parking-kiosk-installer.zip",
-  "sha256": "d9ba1cba2a662cd57d91f18a9304cbfb94e1fe5bb455d8595c26898188718669",
-  "publishedAt": "2026-07-16T09:28:00+09:00",
-  "notes": "i PARKING 최초 로그인과 검색 후 메인 화면 복귀 시 나타나는 안내 팝업을 자동으로 닫아 차량 검색이 중단되지 않도록 수정했습니다."
+  "version": "0.9.7",
+  "downloadUrl": "https://github.com/Seofram/parking-kiosk-updates/releases/download/v0.9.7/parking-kiosk-installer.zip",
+  "sha256": "09fdd5b736a000a1177d8ca3337ecc1c4de687f2a1df7d50baa5fa2cc6fff907",
+  "publishedAt": "2026-07-16T09:40:49+09:00",
+  "notes": "i PARKING 홈 화면의 첫 사용 가이드에서 다시 보지 않기와 닫기를 자동 처리하고, 고정 위치 요소도 실제 마우스 클릭할 수 있도록 수정했습니다."
 }
