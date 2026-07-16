@@ -1,7 +1,7 @@
 {
-  "version": "0.9.10",
-  "downloadUrl": "https://github.com/Seofram/parking-kiosk-updates/releases/download/v0.9.10/parking-kiosk-installer.zip",
-  "sha256": "02f46d63bed3ed2da88ce7ad03446abfafade3f4177ec67d3bbb7f0251a47754",
-  "publishedAt": "2026-07-16T13:47:55+09:00",
-  "notes": "할인권 구매 광고에서는 하단 닫기를 최우선으로 누르고, 닫기가 없는 구매 상세 화면에서는 우측 상단 홈으로 복귀합니다. 광고가 검색 화면을 덮은 상태를 준비 완료로 오인하지 않으며 검색 실패 시 외부 세션을 홈으로 정리합니다."
+  "version": "0.9.11",
+  "downloadUrl": "https://github.com/Seofram/parking-kiosk-updates/releases/download/v0.9.11/parking-kiosk-installer.zip",
+  "sha256": "1326cb5339ad9ec1b957fb984690024288810b95b5f3ea24eed8ca14e4ed5809",
+  "publishedAt": "2026-07-16T14:01:26+09:00",
+  "notes": "최종 확인 단계의 다시 입력 버튼이 차량 목록이 아니라 차량번호 4자리 입력 화면으로 돌아갑니다. 기존 i PARKING 조회 세션, 차량 목록, 선택 및 검토 데이터도 함께 초기화합니다."
 }
