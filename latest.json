@@ -1,7 +1,7 @@
 {
-  "version": "0.9.8",
-  "downloadUrl": "https://github.com/Seofram/parking-kiosk-updates/releases/download/v0.9.8/parking-kiosk-installer.zip",
-  "sha256": "b3ab34e09453b24192beb84a2c69c67aea000bff4271f065a39c5174e1b5459a",
-  "publishedAt": "2026-07-16T10:55:02+09:00",
-  "notes": "i PARKING 로그인 화면을 Skip(선택) → 공지(선택) → 로그인 → 홈 가이드(선택) 순서로 자동 처리합니다. DB·계정·장치 설정·브라우저 프로필은 ProgramData에 영속 보존하며 기존 데이터를 자동 이전합니다."
+  "version": "0.9.9",
+  "downloadUrl": "https://github.com/Seofram/parking-kiosk-updates/releases/download/v0.9.9/parking-kiosk-installer.zip",
+  "sha256": "4e1bc077fa6c446ebce58df6b4000ea0bbccce9b34ca45779e58b22c1656872a",
+  "publishedAt": "2026-07-16T12:51:30+09:00",
+  "notes": "실행 즉시 i PARKING 로그인과 메인 화면 준비 상태를 확인하고 실패 시 오류 화면을 표시합니다. 안내·구매 화면의 하단 닫기 또는 우측 상단 홈 버튼을 자동 처리하며, 검색 전 준비되지 않은 연결을 차단합니다."
 }

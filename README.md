@@ -8,7 +8,7 @@
 
 ## Current release
 
-- Version: `0.9.8`
+- Version: `0.9.9`
 - Asset: `parking-kiosk-installer.zip`
 - Manifest: `latest.json`
 
