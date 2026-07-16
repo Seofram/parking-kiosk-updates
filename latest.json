@@ -1,7 +1,7 @@
 {
-  "version": "0.9.7",
-  "downloadUrl": "https://github.com/Seofram/parking-kiosk-updates/releases/download/v0.9.7/parking-kiosk-installer.zip",
-  "sha256": "09fdd5b736a000a1177d8ca3337ecc1c4de687f2a1df7d50baa5fa2cc6fff907",
-  "publishedAt": "2026-07-16T09:40:49+09:00",
-  "notes": "i PARKING 홈 화면의 첫 사용 가이드에서 다시 보지 않기와 닫기를 자동 처리하고, 고정 위치 요소도 실제 마우스 클릭할 수 있도록 수정했습니다."
+  "version": "0.9.8",
+  "downloadUrl": "https://github.com/Seofram/parking-kiosk-updates/releases/download/v0.9.8/parking-kiosk-installer.zip",
+  "sha256": "b3ab34e09453b24192beb84a2c69c67aea000bff4271f065a39c5174e1b5459a",
+  "publishedAt": "2026-07-16T10:55:02+09:00",
+  "notes": "i PARKING 로그인 화면을 Skip(선택) → 공지(선택) → 로그인 → 홈 가이드(선택) 순서로 자동 처리합니다. DB·계정·장치 설정·브라우저 프로필은 ProgramData에 영속 보존하며 기존 데이터를 자동 이전합니다."
 }
