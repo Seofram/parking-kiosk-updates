@@ -1,7 +1,7 @@
 {
-  "version": "0.9.5",
-  "downloadUrl": "https://github.com/Seofram/parking-kiosk-updates/releases/download/v0.9.5/parking-kiosk-installer.zip",
-  "sha256": "4474fb3b95a6144d33c3799dfe6abf2038a5c0ba3471a524be22b3211227a43f",
-  "publishedAt": "2026-07-15T22:31:40+09:00",
-  "notes": "관리자 설정에서 기기 이름을 변경할 수 있습니다. 이름은 업데이트 후에도 보존되며 Discord 알림과 운영 식별 정보에 즉시 반영됩니다."
+  "version": "0.9.12",
+  "downloadUrl": "https://github.com/Seofram/parking-kiosk-updates/releases/download/v0.9.12/parking-kiosk-installer.zip",
+  "sha256": "6537c482ae1f6a06951fe655a37aaf1ed73c73a0e914cc3f8bed735aa18c8a92",
+  "publishedAt": "2026-07-19T10:30:35+09:00",
+  "notes": "고객용 화면에서는 우클릭 메뉴와 드래그 텍스트 선택을 차단합니다. 관리자 설정 입력란에서는 선택과 커서 이동을 허용하며, 가상 키보드가 현재 커서 또는 선택 범위에 한글·영문·붙여넣기·지우기를 적용합니다."
 }
